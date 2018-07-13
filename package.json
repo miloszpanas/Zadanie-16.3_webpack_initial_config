@@ -1,0 +1,23 @@
+{
+  "name": "zadanie-16.3_webpack_config",
+  "version": "1.0.0",
+  "description": "webpack_config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/miloszpanas"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "Miłosz Panas",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.16.0",
+    "webpack-cli": "^3.0.8"
+  }
+}
